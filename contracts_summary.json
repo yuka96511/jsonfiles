@@ -1,0 +1,14 @@
+[
+  {
+    "index": 1,
+    "summary": "{\n  \"property_code\": null,\n  \"contract_id\": null,\n  \"monthly_rent\": null,\n  \"exclusive_area_sqm\": null,\n  \"contract_start_date\": null,\n  \"contract_end_date\": null\n}"
+  },
+  {
+    "index": 2,
+    "summary": "{\n  \"property_code\": null,\n  \"contract_id\": null,\n  \"monthly_rent\": null,\n  \"exclusive_area_sqm\": null,\n  \"contract_start_date\": null,\n  \"contract_end_date\": null\n}"
+  },
+  {
+    "index": 3,
+    "summary": "{\n  \"property_code\": null,\n  \"contract_id\": null,\n  \"monthly_rent\": null,\n  \"exclusive_area_sqm\": null,\n  \"contract_start_date\": null,\n  \"contract_end_date\": null\n}"
+  }
+]
