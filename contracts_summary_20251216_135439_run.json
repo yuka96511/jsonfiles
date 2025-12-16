@@ -1,0 +1,19 @@
+{
+  "lessor": "ABC 不動産株式会社",
+  "lessee": "XYZ 不動産株式会社",
+  "property_name": "三井オフィスタワー",
+  "address": "東京都千代田区一丁目 10 番 100",
+  "structure_and_floors": "鉄筋鉄骨造（地上 20 階）",
+  "leased_floor_range": "1～9 階",
+  "leased_use": "事務所",
+  "exclusive_area_sqm": 900,
+  "exclusive_area_tsubo": 300,
+  "monthly_rent": 5500000,
+  "common_service_fee": null,
+  "deposit": 55000000,
+  "lease_start_date": "2026-04-01",
+  "lease_end_date": "2036-03-31",
+  "payment_start_rent_date": "2024-04-01",
+  "payment_start_misc_date": "2024-04-01",
+  "payment_start_common_fee_date": null
+}
